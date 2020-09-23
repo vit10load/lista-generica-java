@@ -6,9 +6,9 @@ Critérios para escolha e estudo de uma estrutura de dados incluem eficiência p
 
 Em termos de EDs, os TDs e TADs são definidos indiretamente pelas operações e usos, e propriedades destas operações e usos: e.g. o custo computacional e o espaço que pode representar e ocupa na memória.
 
-**********************************
+
 ## Tipos de estruturas mais comuns
-**********************************
+
 
 -  `VETOR`
 -  `LISTA`
@@ -16,16 +16,16 @@ Em termos de EDs, os TDs e TADs são definidos indiretamente pelas operações e
 -  `FILA`
 -  `ÁRVORE`
 
-**************************
+
 ## O que foi desenvolvido?
-**************************
+
 
 Para este projeto foi utilizado a tipologia mais simples de implementar uma lista. Portanto,
 utilizamos o tipo vetor.
 
-**********
+
 ## Classes
-**********
+
 
 -  `Vetor`
 -  `VetorObjetos`
@@ -37,9 +37,9 @@ Para a classe Lista foi utilizado o tipo genérico para implementação.
 -  `https://www.devmedia.com.br/usando-generics-em-java/28981`
 
 
-************************************
+
 ## Links para estudos complementares
-************************************
+
 -  `Guia de usuário`
 -  `https://pt.wikipedia.org/wiki/Estrutura_de_dados`
 -  `https://blog.caelum.com.br/nova-apostila-algoritmos-e-estruturas-de-dados-com-java/amp/`
